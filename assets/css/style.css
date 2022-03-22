@@ -52,3 +52,29 @@
     font-weight: lighter;
     font-size: 1.55vw;
   }
+
+  footer {
+    background: #000000;
+    padding: 20px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  footer h2 {
+    color: #fffafa;
+    font-size: 30px;
+    margin: 0;
+  }
+  
+  footer div {
+    line-height: 1.5;
+    text-align: right;
+  }
+  
+  footer a {
+    color: #fffafa;
+    font-size: 20px;
+  }
+
